@@ -1,0 +1,94 @@
+
+body {
+  font-family: "Karla", sans-serif;
+  margin: 0;
+}
+
+
+.bar{
+    height: 50px;
+    width: 50px;
+    margin-bottom: 30px;
+    display: inline-block;
+    margin-right: 2px;
+    position:sticky;
+}
+
+.wholebarDiv{
+  margin-left: 20px;
+}
+
+
+.button-69 {
+  background-color: initial;
+  margin: 0;
+  margin-right: 15px;
+  background-image: linear-gradient(#072af1 0, #242786 100%);
+  border-radius: 5px;
+  border-style: none;
+  box-shadow: rgba(245, 244, 247, .25) 0 1px 1px inset;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Inter, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  height: 60px;
+  line-height: 60px;
+  margin-left: -4px;
+  outline: 0;
+  text-align: center;
+  transition: all .3s cubic-bezier(.05, .03, .35, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: bottom;
+  width: 190px;
+}
+
+.button-69:hover {
+  opacity: .7;
+}
+
+.bttn-div{
+  margin-left: 123px;
+  margin-top: -25px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    height: 30px;
+    background: linear-gradient(90deg, #072af1 1.18%, #242786 100%);
+    color: white;
+    padding: 20px;
+}
+
+.subhead{
+  margin-left: 940px;
+}
+
+.sidebar{
+  height: 450px;
+  width: 550px;
+  margin-left: 675px;
+  margin-top: -420px;
+}
+
+.Colorpic{
+  display: flex;
+  margin-top: 35px;
+}
+
+.ColorSelect{
+  margin-left: 205px;
+}
+
+.AlgoSelect{
+  margin-left: 230px;
+}
+
+.AlgoPic{
+  display: flex;
+  margin-top: 35px;
+}
